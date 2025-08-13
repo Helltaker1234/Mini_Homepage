@@ -10,7 +10,6 @@ printf("Hello world~!");
 ```
 
 
-<<<<<<< HEAD
 홈페이지 만드는 중 홈페이지 만들면서 pull 연습중
 
 
@@ -23,6 +22,7 @@ printf("Hello world~~~~");
 
 안농 나는 샤카밤바스피스
 샤캬샤캬샤캬샤캬샤캬
-=======
 새로운 브랜치 생성
->>>>>>> shkabambaspis
+
+## 내비게이션
+- navigation.md 추가
