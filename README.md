@@ -13,6 +13,8 @@
 ## 푸터 추가
 - footer.md 추가
 
+## 서치 추가
+- search.md 추가
 
 ## 이젠 사이드바도 생겼어여 와우와우
 - sidebar.md 추가
